@@ -31,16 +31,6 @@ CMakeUserPresets.json
 cmake-build-debug
 build/
 CMakeFiles/
-*.obj
-*.exe
-*.log
-*.yaml
-*.bin
-*.txt
-*.user
-*.DS_Store
-*.swp
-*.swo
 # VS Code
 .vscode/
 # System files

@@ -2,16 +2,9 @@
   "name": "tethys-system",
   "version": "1.0.0",
   "dependencies": [
-    "wt",
-    "boost",
+    "curl",
     "openssl",
-    "curl"
+    "wt"
   ],
-  "overrides": [
-    {
-      "name": "libffi",
-      "version": "3.4.4"
-    }
-  ],
-  "builtin-baseline": "d4f3b1e6b1f1c8e2f5e6a7b8c9d0e1f2a3b4c5d6"
+    "builtin-baseline": "29ff5b8131d0c6c8fcb8fbaef35992f0d507cd7c"
 }

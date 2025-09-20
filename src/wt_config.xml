@@ -1,0 +1,10 @@
+<server>
+    <connector>
+        <type>http</type>
+        <port>443</port>
+        <ssl>
+            <certificate>path/to/cert.pem</certificate>
+            <private-key>path/to/key.pem</private-key>
+        </ssl>
+    </connector>
+</server>
